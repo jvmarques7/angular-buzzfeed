@@ -3,9 +3,10 @@
   margin: 0;
   border: 0;
   box-sizing: border-box;
-  background-color: antiquewhite;
+  color: antiquewhite;
+  text-decoration: none;
 }
 
-body{
+body {
   background-color: #1f1147;
 }

@@ -1,0 +1,18 @@
+footer {
+  border-top: solid white 2px;
+  position:fixed;
+  bottom:0;
+  left:0;
+  width:100%;
+  height: auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #1f1147;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  }
+
+footer > span {
+  display: block;
+}
